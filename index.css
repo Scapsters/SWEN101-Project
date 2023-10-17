@@ -2,19 +2,32 @@
     display: flex;
     flex-direction: row;
 
+    background-color: rgb(41, 48, 45);
+
     width: 100%;
     height: 100%;
 }
 
-.accordian-menu {
+.side-bar {
     display: flex;
     flex-direction: column;
 
-    width: 250px;
+    background-color: rgb(25, 201, 134);
+
+    width: 150px;
 }
 
 .main-container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+
+    width: 50px
+
+    
+}
+
+.logo {
+    height: 150px;
 }
 
