@@ -29,5 +29,8 @@
 
 .logo {
     height: 150px;
+
+    background-image: linear-gradient(177deg , rgb(16, 195, 208), rgb(245, 186, 59));
+    background-size: contain;
 }
 
