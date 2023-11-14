@@ -12,9 +12,9 @@
     display: flex;
     flex-direction: column;
 
-    background-color: rgb(25, 201, 134);
+    background-color: rgb(255, 191, 117);
 
-    width: 150px;
+    width: 200px;
 }
 
 .main-container {
@@ -27,11 +27,11 @@
     
 }
 
-.logo-container {
+.accordian-menu {
+    height: 85vh;
 }
 
 .logo {
-    width: 150px;
-    height: auto;
+    width: 200px;
 }
 
