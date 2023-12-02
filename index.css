@@ -12,6 +12,10 @@
     height: 100%;
 }
 
+.top-bar-links {
+    display:flex;
+}
+
 .side-bar {
     display: flex;
     flex-direction: column;
@@ -104,4 +108,21 @@
 
 .icon {
     width: 50px;
+}
+
+.setting-panels {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height:200px;
+}
+
+.settings-panel {
+    display:flex;
+    flex-direction: column;
+    border-style: solid;
+}
+
+.settings-panel-item {
+    padding: 10px;
 }
