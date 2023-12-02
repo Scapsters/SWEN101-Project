@@ -21,6 +21,22 @@
     width: 200px;
 }
 
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 25px;
+
+    background-color: rgb(239, 155, 0);
+
+    height: 100px;
+    width: 500px;
+}
+
+.directory-label {
+    justify-content: center;
+}
+
 .main-container {
     display: flex;
     flex-direction: column;
@@ -53,17 +69,15 @@
     padding-left: 25px;
 }
 
+.search-bar {
+    padding: 15px;
+    height: 20px;
+}
+
 .logo {
     width: 200px;
 }
 
-.settings-button {
-
-}
-
 .icon {
-    width: auto;
-}
-.profile-icon {
-
+    width: 50px;
 }
