@@ -72,6 +72,19 @@
     border: 3px;
     border-style: solid;
     width: 500px;
+    height:200px;
+}
+
+.service-panel-title {
+    padding: 10px;
+    padding-top:50px;
+    width:80px;
+}
+
+.service-panel-item {
+    border-style: solid;
+    width:190px;
+    padding:40px;
 }
 
 .accordian-suboption {
